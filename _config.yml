@@ -1,13 +1,13 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "https://prova1.netlify.com/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "Photography by Ciukamama"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "Ciukamama"
 header:
  title: "Istanti"
  subtitle: "di Ciukamama"
